@@ -1,0 +1,15 @@
+/* Format for applying styling rules 
+[selector] {
+  [property]: [value];
+}
+*/
+/* Global Styles go here */
+body {
+  margin: 0;
+  height: 100vh;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
